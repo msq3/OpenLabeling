@@ -28,7 +28,7 @@ import xml.etree.cElementTree as ET
 import sys
 
 sys.path.insert(0,"../object_detection")
-from tf2_object_detection import ObjectDetector
+from tf_object_detection import ObjectDetector
 import configparser
 
 #--------------INIT OBJECT DETECTOR---------------------
