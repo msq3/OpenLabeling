@@ -1,3 +1,4 @@
+#For TENSORFLOW 2 and above. Put inside object_detection folder.
 import numpy as np
 import tensorflow as tf
 
