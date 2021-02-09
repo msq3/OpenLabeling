@@ -12,5 +12,5 @@ The 2 files ***main_auto.py*** and ***tf_object_detection.py*** above in this fo
 https://techzizou007.medium.com/image-dataset-labeling-annotation-bec3390eda2d#94d0
 
 ### Where to put these files?
-Put the above 2 scripts in their respective folders inside the OpenLabeling-master folder for OpenLabeling tool.
+Replace the above 2 scripts with the same scripts inside the OpenLabeling-master folder for OpenLabeling tool.
 
